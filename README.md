@@ -1,11 +1,11 @@
-About napari-power-spectrum
-===========================
+About napari-power-spectrum-feedstock
+=====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-power-spectrum-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/GiorgiaTortora/napari-power-spectrum
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-power-spectrum-feedstock/blob/main/LICENSE.txt)
 
 Summary: A simple plugin to get the power spectrum of frames of a stack image
 
@@ -95,7 +95,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
